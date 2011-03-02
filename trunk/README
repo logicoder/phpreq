@@ -1,0 +1,33 @@
+PHP Requirements checker v1.0
+=============================
+
+Thank you for choosing PHP Requirements checker.
+
+
+INSTALLATION
+------------
+
+Please make sure the release file is unpacked under a Web-accessible
+directory. You shall see the following files and directories:
+
+      CHANGELOG            describing changes in every release
+      LICENSE              license
+      README               this file
+      UPGRADE              upgrading instructions
+
+
+QUICK START
+-----------
+
+
+
+WHAT's NEXT
+-----------
+
+Please visit the project website for updates, reference and join
+discussions with other users.
+
+
+
+The PHPReq Developer Team
+http://phpreq.googlecode.com
