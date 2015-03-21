@@ -1,0 +1,1 @@
+An easy and fast way to check for server requirements compliance.
